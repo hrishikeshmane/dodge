@@ -1,6 +1,6 @@
 # dodge
 Android Game in Unity
 
-* Download
+* Clone/Download
 * Build
 * Play!
